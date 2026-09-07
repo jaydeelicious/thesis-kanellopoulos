@@ -1,8 +1,9 @@
-# thesis-ad
+# Thesis
 # Tralzformer
 Longitudinal Modeling of Alzheimer's Disease Progression and Diagnosis 
 
 This repository contains code and experiments for my thesis on Alzheimer’s disease progression modeling using Transformer-based architectures.
+(https://artemis.ece.ntua.gr/items/1a59972b-9d71-4255-97aa-491ec21460bd)
 
 The project focuses on two complementary prediction tasks:
 
@@ -11,11 +12,6 @@ Multi-class diagnosis prediction, i.e. predicting the subject’s clinical diagn
 
 thesis-ad-conversion/
 Next-visit conversion prediction, i.e. estimating whether a subject without AD at baseline will progress to AD at the following visit(s).
-
-# Structure
-
-├── thesis-ad-diagnosis/    # Preprocessing for diagnosis cohort and tralzformer experiment for diagnosis task
-├── thesis-ad-conversion/   # Preprocessing for conversion cohort and tralzformer experiment for conversion task
 
 # Versions
 
