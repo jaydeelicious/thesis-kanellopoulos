@@ -1,6 +1,5 @@
 # Thesis
-# Tralzformer
-Longitudinal Modeling of Alzheimer's Disease Progression and Diagnosis 
+# Interpretable Transformer-Based Longitudinal Modeling of Alzheimer’s Disease Diagnosis and Progression
 
 This repository contains code and experiments for my thesis on Alzheimer’s disease progression modeling using Transformer-based architectures.
 (https://artemis.ece.ntua.gr/items/1a59972b-9d71-4255-97aa-491ec21460bd)
